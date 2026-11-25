@@ -1,0 +1,13 @@
+name: lastfm-sna
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=3.1
+  - numpy=2.4
+  - scipy=1.17
+  - scikit-learn=1.9
+  - networkx=3.6
+  - matplotlib=3.11
+  - ipykernel=7
+  - jupyterlab=4

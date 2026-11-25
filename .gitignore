@@ -1,0 +1,6 @@
+/data/*.dat
+/SNA/
+/lastfm-sna-project/
+.lastfm-*.py
+.ipynb_checkpoints/
+__pycache__/
